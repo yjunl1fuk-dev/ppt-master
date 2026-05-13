@@ -1,0 +1,35 @@
+{
+  "name": "High Academic Defense Restyle",
+  "intent": "Upgrade a thesis-defense deck from saturated template-blue to a refined academic system without changing slide wording, figures, or data.",
+  "palette": {
+    "ink": "#14172F",
+    "navy": "#1E2361",
+    "midnight": "#0F1638",
+    "paper": "#F7F4EC",
+    "surface": "#FFFFFF",
+    "mist": "#EEF1F6",
+    "gold": "#C79A3B",
+    "cyan": "#42B8C8",
+    "muted_red": "#B9554D",
+    "graphite": "#374151"
+  },
+  "typography": {
+    "latin": "Aptos Display",
+    "fallback": "Microsoft YaHei",
+    "title_weight": "bold",
+    "body_weight": "regular"
+  },
+  "layout_rhythm": [
+    "paper_title",
+    "split_research_card",
+    "dark_section_marker",
+    "figure_gallery",
+    "data_focus"
+  ],
+  "rules": [
+    "Do not rewrite any text.",
+    "Do not replace imported figures, charts, microscopy photos, equations, or logos.",
+    "Prefer restrained contrast, generous white space, and recurring but non-identical academic accents.",
+    "Use gold as a scholarly highlight, cyan as a scientific/photonic accent, and navy only as a structural anchor."
+  ]
+}
